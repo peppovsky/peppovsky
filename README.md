@@ -24,7 +24,7 @@ Aqui estão algumas das tecnologias com as quais trabalho ou estou aprendendo:
 </p>
 
 ### 🐍 Contribuições
-![Snake animation](https://github-user-contents.vercel.app/api/snake?github_user=peppovsky&outputs=github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/peppovsky/peppovsky/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 📫 Como me encontrar
