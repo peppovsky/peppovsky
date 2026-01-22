@@ -9,8 +9,8 @@
 👨‍💻 **FrontEnd Developer | 🚀 UX/UI | 💻 Design**
 
 ### ⚙️ Skills & Tools
-<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5"> <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"> <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" alt="Figma"> <img src="https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress" alt="WordPress"> <img src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira" alt="Jira"> <br> <img src="https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code" alt="VSCode"> <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
-<br clear="right" />
+
+<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" alt="HTML5"> <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" alt="CSS3"> <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"> <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" alt="Figma"> <img src="https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=white" alt="Canva"> <img src="https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress" alt="WordPress"> <img src="https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira" alt="Jira"> <br /> <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" alt="VS Code"> <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub">
 
 ### 🚀 Sobre mim
 - 🎓 Graduando em **Redes de Computadores** na **Universidade Federal de Santa Maria**.
