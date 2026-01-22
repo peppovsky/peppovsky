@@ -15,3 +15,7 @@ Estou iniciando minha jornada no desenvolvimento, unindo a infraestrutura de red
 
 ### 📫 Como me encontrar
 [LinkedIn](https://linkedin.com/in/pedrohwm) | [E-mail](mailto:pedrohenryque.m@gmail.com)
+
+[![](https://visitcount.itsvg.in/api?id=GuedesJoaoVictor&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+
+<img src="https://raw.githubusercontent.com/GuedesJoaoVictor/GuedesJoaoVictor/output/snake.svg" alt="Snake animation" />
