@@ -20,11 +20,8 @@ Aqui estão algumas das tecnologias com as quais trabalho ou estou aprendendo:
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=peppovsky&show_icons=true&theme=dark&include_all_commits=true&count_private=false&hide_rank=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peppovsky&layout=compact&theme=dark&hide_progress=false" />
 </p>
 
-### 🐍 Contribuições
-![Snake animation](https://raw.githubusercontent.com/peppovsky/peppovsky/output/github-contribution-grid-snake-dark.svg)
 ---
 
 ### 📫 Como me encontrar
