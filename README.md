@@ -1,12 +1,9 @@
 # Olá, eu sou o Pedro Miranda! 👋
 
 ### Sobre Mim
-Estou iniciando minha jornada no desenvolvimento, unindo a infraestrutura de redes com a criatividade do design. Atualmente, foco em **Desenvolvimento Front-End, UX/UI Design e IoT**.
+Estou iniciando minha jornada no desenvolvimento, unindo a infraestrutura de redes com a criatividade do design. Atualmente, focado em **Desenvolvimento Front-End, UX/UI Design e IoT**.
 
-- 🎓 Graduando em **Redes de Computadores** na **UFSM** (Universidade Federal de Santa Maria).
-- 🚀 Atualmente desenvolvendo projetos com foco em sistemas para automação, redes e Internet das Coisas (IoT).
-- 💼 **Estagiário de TI na Irriga Global**, onde atuo com manutenção de hardware e protocolos de comunicação de longo alcance, como **LoRaWAN** e **NB-IoT**.
-- 📈 **Diretor Comercial na CompAct Jr.**, a empresa júnior de TI da UFSM, liderando estratégias comerciais e aplicando conhecimentos em desenvolvimento de sistemas e interfaces.
+- 🎓 Graduando em **Redes de Computadores** na **UFSM** -  Universidade Federal de Santa Maria.
 
 ### 📈 Minhas Estatísticas
 
